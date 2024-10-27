@@ -2,7 +2,7 @@
     {
         "nombre": "Lasagna",
         "fecha": "2024",
-        "signo": "Platos de fondo",
+        "signo": "DeFondo",
         "descripcion": "Ilustracion hecha para el Laboratorio de Biofabricación de la UC. Se realizó con ilustraciones vectoriales, el concepto del afiche se basó en el translado del Biofab UC a un nuevo espacio dentro de la universidad",
         "foto": "https://github.com/user-attachments/assets/7b66c7ea-6f54-4780-8b1b-66e7ec638eac",
         "fotos": ["Espaciodeestar1.png", "Espaciodeestar2.png","Espaciodeestar2.png"],
@@ -47,14 +47,14 @@
     {
         "nombre": "Rissoto",
         "fecha": "2023",
-        "signo": "Platos de fondo",
+        "signo": "DeFondo",
         "descripcion": "Diseño de logotipo para oficina de trabajo Round.",
         "foto": "https://github.com/user-attachments/assets/781d4bf4-1494-488f-b770-497766ce7130",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
-        "nombre": "Calzoni",
+        "nombre": "Ensalada Caprese",
         "fecha": "2022",
         "signo": "Antipasti",
         "descripcion": "Diseño de Experiencia de Reciclaje para promover la limpieza del Cerro Renca. Este incluye la experiencia de kit de residuos y centro de reciclaje",
@@ -65,7 +65,7 @@
     {
         "nombre": "Pasta a la carbonara",
         "fecha": "2024",
-        "signo": "Platos de fondo",
+        "signo": "DeFondo",
         "descripcion": "Diseño editorial de informe de diseño especultativo.",
         "foto": "https://github.com/user-attachments/assets/caab7367-a8df-436c-be56-bbe92214d737",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
@@ -83,7 +83,7 @@
     {
         "nombre": "Gnocchi",
         "fecha": "2022",
-        "signo": "Platos de fondo",
+        "signo": "DeFondo",
         "descripcion": "Laminas de distintos sabores que contienen B12. Buscan rediseñar el consumo de la B12 de una manera innovadora para incentivar su consumo en quienes necesitan de esta vitamina",
         "foto": "https://github.com/user-attachments/assets/63e0f36b-4e66-4154-9a79-4f1ba49be959",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
