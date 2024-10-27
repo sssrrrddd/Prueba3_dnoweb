@@ -2,7 +2,7 @@
     {
         "nombre": "Lasagna",
         "fecha": "2024",
-        "signo": "Postres",
+        "signo": "Platos de fondo",
         "descripcion": "Ilustracion hecha para el Laboratorio de Biofabricación de la UC. Se realizó con ilustraciones vectoriales, el concepto del afiche se basó en el translado del Biofab UC a un nuevo espacio dentro de la universidad",
         "foto": "https://github.com/user-attachments/assets/7b66c7ea-6f54-4780-8b1b-66e7ec638eac",
         "fotos": ["Espaciodeestar1.png", "Espaciodeestar2.png","Espaciodeestar2.png"],
@@ -45,9 +45,9 @@
         "github": "https://github.com/sssrrrddd"
     },
     {
-        "nombre": "Insalta di Burrata",
+        "nombre": "Rissoto",
         "fecha": "2023",
-        "signo": "Ensaladas",
+        "signo": "Platos de fondo",
         "descripcion": "Diseño de logotipo para oficina de trabajo Round.",
         "foto": "https://github.com/user-attachments/assets/781d4bf4-1494-488f-b770-497766ce7130",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
@@ -56,7 +56,7 @@
     {
         "nombre": "Calzoni",
         "fecha": "2022",
-        "signo": "Platos de fondo",
+        "signo": "Antipasti",
         "descripcion": "Diseño de Experiencia de Reciclaje para promover la limpieza del Cerro Renca. Este incluye la experiencia de kit de residuos y centro de reciclaje",
         "foto": "https://github.com/user-attachments/assets/40e7a6fc-187d-4086-b66f-a2b3a054e94e",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
@@ -90,18 +90,18 @@
         "github": "https://github.com/sssrrrddd"
     },
     {
-        "nombre": "Caprese",
+        "nombre": "Prosciutto e melone",
         "fecha": "2023",
-        "signo": "Ensaladas",
+        "signo": "Antipasti",
         "descripcion": "Casa de perro hecha con corte cnc y diseñada para que sus piezas sean unidas con piezas impresas en 3d",
         "foto": "https://github.com/user-attachments/assets/aaaaef62-11bc-4a54-9502-32f172df6fa9",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
-        "nombre": "Afeitadora Joe Colombo",
+        "nombre": "Bruschetta",
         "fecha": "2022",
-        "signo": "industrial",
+        "signo": "Antipasti",
         "descripcion": "Afeitadora diseñada a partir del analisis de los proyectos del diseñador Joe Colombo",
         "foto": "https://github.com/user-attachments/assets/3806edf8-6c77-4fd0-801b-9e7d7e7f5820",
         "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
