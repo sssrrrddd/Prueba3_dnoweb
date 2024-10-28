@@ -1,1 +1,11 @@
 # clase12_dnoweb
+![PannaCotta](https://github.com/user-attachments/assets/9e703fb4-ffe2-41f3-93bb-6164841ee71e)
+![Bruschette](https://github.com/user-attachments/assets/e73c719e-8db5-4e7d-84a7-86db5e1b4aaa)
+![Melone](https://github.com/user-attachments/assets/b86f1cb5-958b-421a-a87f-f3b7fa7b9203)
+![Caprese](https://github.com/user-attachments/assets/83d6059a-cfef-43ac-8f50-181aed49fade)
+![Tiramisu](https://github.com/user-attachments/assets/cc69372f-8839-4848-8fa9-e3709db51cc7)
+![Pizza](https://github.com/user-attachments/assets/6c02c777-e607-429a-b48d-4a6f24c9534b)
+![Cannoli](https://github.com/user-attachments/assets/c159534d-db84-4f1f-baf4-41adc68f30bc)
+![Carbonara](https://github.com/user-attachments/assets/1ffb3b50-f3de-4405-a10a-2821580e1ae1)
+![Grostoli](https://github.com/user-attachments/assets/70a326a7-c393-4ab5-a3e4-7c1b3670a20a)
+![Affogato](https://github.com/user-attachments/assets/56669f3d-bb80-4178-ab01-478789a560f1)
