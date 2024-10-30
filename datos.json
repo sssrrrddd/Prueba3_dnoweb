@@ -14,7 +14,7 @@
         "signo": "Postres",
         "descripcion": "La panna cotta es un postre italiano cremoso y delicado que se elabora a base de nata (crema de leche), azúcar y gelatina. Se calienta la nata con el azúcar y una pizca de vainilla, y luego se añade gelatina disuelta para darle consistencia. Una vez mezclado, se vierte en moldes y se deja enfriar en el refrigerador hasta que cuaje. Tradicionalmente, se sirve desmoldada y se acompaña de frutas frescas, coulis de frutas o caramelo para un contraste de sabores y texturas.",
         "foto": "https://github.com/user-attachments/assets/9e703fb4-ffe2-41f3-93bb-6164841ee71e",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["pannacotta-1.jpg", "pannacotta-2.jpg","pannacotta-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -23,7 +23,7 @@
         "signo": "Postres",
         "descripcion": "El tiramisú es un postre italiano clásico, suave y de sabor intenso, elaborado con capas de bizcochos empapados en café espresso y una mezcla de queso mascarpone, yemas de huevo y azúcar. Para montarlo, se coloca una capa de bizcochos mojados en café, seguida de una capa de la crema de mascarpone, y se repite hasta completar el molde. Finalmente, se espolvorea con cacao en polvo y se refrigera varias horas para que los sabores se integren. Es un postre que combina el sabor amargo del café con la cremosidad del mascarpone y el toque dulce del cacao.",
         "foto": "https://github.com/user-attachments/assets/cc69372f-8839-4848-8fa9-e3709db51cc7",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["tiramisu-1.jpg", "tiramisu-2.jpg","tiramisu-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -32,7 +32,7 @@
         "signo": "Postres",
         "descripcion": "El cannoli es un postre tradicional siciliano que consiste en tubos crujientes de masa frita, rellenos de una crema dulce y suave a base de queso ricotta. Para prepararlos, se hacen discos de masa que se envuelven en moldes de tubo y se fríen hasta dorarse. Luego, se rellenan con una mezcla de ricotta azucarada, vainilla y, en ocasiones, trocitos de chocolate o ralladura de naranja para realzar el sabor. Los extremos se pueden decorar con pistachos triturados, chocolate o frutas confitadas, y se sirven espolvoreados con azúcar glas.",
         "foto": "https://github.com/user-attachments/assets/c159534d-db84-4f1f-baf4-41adc68f30bc",
-        "fotos": ["Espaciodeestar1.png", "Espaciodeestar2.png","Espaciodeestar2.png"],
+        "fotos": ["canolli-1.png", "canolli-2.png","canolli-3.png"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -41,7 +41,7 @@
         "signo": "Postres",
         "descripcion": "El affogato es un postre italiano sencillo y delicioso que combina helado de vainilla y café espresso caliente. Para prepararlo, se coloca una bola de helado en una taza o vaso, y justo antes de servir, se vierte una dosis de espresso recién hecho sobre el helado. El contraste entre el helado frío y el café caliente crea una mezcla cremosa y aromática que se disfruta inmediatamente. Es ideal como postre ligero o para acompañar una comida con un toque de café.",
         "foto": "https://github.com/user-attachments/assets/56669f3d-bb80-4178-ab01-478789a560f1",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["Affogato-1.jpg", "Affogato-2.jpg","Affogato-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -50,7 +50,7 @@
         "signo": "DeFondo",
         "descripcion": "El risotto es un plato italiano cremoso elaborado a base de arroz (preferiblemente arborio o carnaroli), que se cocina lentamente en caldo. Para prepararlo, se sofríe cebolla en mantequilla o aceite de oliva y se añade el arroz, tostándolo brevemente. Luego, se va añadiendo caldo caliente poco a poco, removiendo constantemente para que el arroz libere su almidón y logre una textura cremosa. Puede incluir otros ingredientes como vino blanco, queso parmesano y vegetales, hongos o mariscos, según la variante. Se sirve caliente y cremoso, ideal como plato principal o acompañamiento.",
         "foto": "https://github.com/user-attachments/assets/098efc0a-6f61-4c83-bbc3-50580fa7a68c",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["rissoto-1.jpg", "rissoto-2.jpg","rissoto-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -59,7 +59,7 @@
         "signo": "Antipasti",
         "descripcion": "La ensalada caprese es un plato italiano fresco y sencillo, compuesto de rodajas de tomate maduro, mozzarella fresca y hojas de albahaca. Para prepararla, se intercalan las rodajas de tomate y mozzarella en un plato, y se decoran con hojas de albahaca. Se adereza con un chorrito de aceite de oliva virgen extra, sal y, opcionalmente, pimienta negra o un toque de reducción de balsámico. La caprese es apreciada por su combinación de sabores frescos y equilibrados, perfecta como entrada o acompañamiento.",
         "foto": "https://github.com/user-attachments/assets/83d6059a-cfef-43ac-8f50-181aed49fade",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["caprese-1.jpg", "caprese-2.jpg","caprese-3.jpg"],
         "github": "hhttps://github.com/sssrrrddd"
     },
     {
@@ -68,7 +68,7 @@
         "signo": "DeFondo",
         "descripcion": "La pasta a la carbonara es un plato italiano tradicional de sabor cremoso y rico, elaborado con pocos ingredientes clave. Se prepara cocinando la pasta (generalmente espaguetis) al dente y mezclándola con una salsa hecha de yemas de huevo, queso pecorino romano rallado y pimienta negra. Se añade guanciale (un tipo de panceta curada) que ha sido dorado previamente. La salsa se emulsiona con el calor de la pasta, creando una textura cremosa sin necesidad de nata. Es un plato clásico y sencillo que resalta los sabores intensos de sus ingredientes.",
         "foto": "https://github.com/user-attachments/assets/1ffb3b50-f3de-4405-a10a-2821580e1ae1",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["carbonara-1.jpg", "carbonara-2.jpg","carbonara-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -77,7 +77,7 @@
         "signo": "Postres",
         "descripcion": "Los grostoli, también conocidos como chiacchiere o crostoli, son un dulce italiano tradicional, especialmente popular durante el Carnaval. Se preparan mezclando una masa de harina, huevos, azúcar y mantequilla, que se extiende finamente y se corta en tiras o formas rectangulares. Las tiras se fríen hasta dorarse, quedando crujientes y ligeras. Una vez fritos, se espolvorean generosamente con azúcar glas. Los grostoli tienen una textura aireada y un sabor ligeramente dulce, ideales para disfrutar con café o té.",
         "foto": "https://github.com/user-attachments/assets/70a326a7-c393-4ab5-a3e4-7c1b3670a20a",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["Grostoli-1.jpg", "Grostoli-2.jpg","Grostoli-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -86,7 +86,7 @@
         "signo": "DeFondo",
         "descripcion": "Los gnocchi son pequeñas bolas de masa típicas de la cocina italiana, hechas principalmente de patata, harina y huevo. Para prepararlos, se hierven las patatas, se pelan y se aplastan hasta hacer un puré. Luego, se mezclan con harina y huevo hasta formar una masa suave, que se divide en pequeños trozos y se les da forma de pequeñas almohadillas. Los gnocchi se cuecen en agua hirviendo hasta que flotan, lo cual indica que están listos. Se suelen servir con salsas como la de tomate, mantequilla y salvia, o queso, aportando una textura tierna y un sabor delicado.",
         "foto": "https://github.com/user-attachments/assets/6498e32f-3732-469e-b777-7bcd12ef7a50",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["Gnocchi-1.jpg", "Gnocchi-2.jpg","Gnocchi-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -95,7 +95,7 @@
         "signo": "Antipasti",
         "descripcion": "Prosciutto e melone es un antipasto italiano clásico y refrescante que combina el sabor dulce del melón con la salinidad del jamón curado. Para prepararlo, se cortan rodajas de melón (generalmente cantalupo) y se envuelven en finas lonchas de prosciutto. Se sirve frío, aprovechando el contraste de texturas y sabores entre el melón jugoso y el jamón salado. Es un plato sencillo pero sofisticado, ideal para abrir una comida en los días cálidos de verano.",
         "foto": "https://github.com/user-attachments/assets/b86f1cb5-958b-421a-a87f-f3b7fa7b9203",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["melone-1.jpg", "melone-2.jpg","melone-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     },
     {
@@ -104,7 +104,7 @@
         "signo": "Antipasti",
         "descripcion": "La bruschetta es un aperitivo italiano clásico, sencillo y lleno de sabor. Se prepara tostando rebanadas de pan rústico, que luego se frotan con ajo y se rocían con un poco de aceite de oliva virgen extra. La versión más tradicional se cubre con una mezcla de tomate fresco picado, albahaca y sal, pero existen variaciones que incorporan otros ingredientes como aceitunas, mozzarella o prosciutto. Es un plato versátil y fácil de preparar, ideal como entrada o acompañamiento, que resalta la frescura de sus ingredientes.",
         "foto": "https://github.com/user-attachments/assets/e73c719e-8db5-4e7d-84a7-86db5e1b4aaa",
-        "fotos": ["coblu-1.jpg", "coblu-2.jpg","coblu-3.jpg"],
+        "fotos": ["Bruschetta-1.jpg", "Bruschetta-2.jpg","Bruschetta-3.jpg"],
         "github": "https://github.com/sssrrrddd"
     }
 ]
